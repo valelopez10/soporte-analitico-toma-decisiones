@@ -1,4 +1,4 @@
-# Clase de datos
+# Soporte analítico para la toma de decisiones
 
 **Valeria López** · A01352599 · 17 de noviembre de 2026
 Ingeniería en Transformación Digital (ITD) · Tecnológico de Monterrey
@@ -14,7 +14,7 @@ Repositorio individual para las actividades y entregables de la clase de Soporte
 ## Estructura
 
 ```
-clase-datos/
+soporte-analitico-toma-decisiones/
 ├── sql/        Scripts y consultas SQL
 ├── datos/      Archivos de datos (CSV, Excel, etc.)
 └── docs/       Reportes y entregables
