@@ -16,6 +16,6 @@ Repositorio individual para las actividades y entregables de la clase de Soporte
 ```
 soporte-analitico-toma-decisiones/
 ├── sql/        Scripts y consultas SQL
-├── datos/      Archivos de datos (CSV, Excel, etc.)
+├── Notebook/   Notebooks de exploración de datos
 └── docs/       Reportes y entregables
 ```
