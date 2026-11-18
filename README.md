@@ -3,7 +3,7 @@
 **Valeria López** · A01352599 · 17 de noviembre de 2026
 Ingeniería en Transformación Digital (ITD) · Tecnológico de Monterrey
 
-Repositorio individual para las actividades y entregables de la clase de datos.
+Repositorio individual para las actividades y entregables de la clase de Soporte analítico para la toma de decisiones.
 
 ## Herramientas instaladas
 
