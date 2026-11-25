@@ -1,0 +1,13 @@
+cod_cliente,cliente,industria,rfc,contacto_principal,email_contacto,estatus_cliente,proyecto,fecha_inicio,fecha_fin,pm_otc,pm_cliente,estatus_proyecto,revision_fechas,revision_asignaciones
+C0001,METALSA,Automotriz,,"Hernán Macías",,Activo,"AMS Manufactura",,,,"Andrés Alvarado","En Curso","Sin fecha de inicio","En curso sin asignaciones"
+C0001,METALSA,Automotriz,,"Hernán Macías",,Activo,"Soporte AMS Manufacta",,,,,"En Curso","Sin fecha de inicio","Sin observaciones"
+C0001,METALSA,Automotriz,,"Hernán Macías",,Activo,"Asignación indefinida",,,,,"Por Iniciar","Sin fecha de inicio","Por iniciar con asignaciones"
+C0002,"Grupo Daltile",Manufactura,,"Luis Mora",luis.mora@daltile.com.mx,Activo,Marazzi,2026-07-15,2026-09-23,,,"En Curso","Fecha de fin vencida","Sin observaciones"
+C0002,"Grupo Daltile",Manufactura,,"Luis Mora",luis.mora@daltile.com.mx,Activo,"Asignación EBS temporal (3 meses)",,,"JUAN JOSÉ CORONADO BRAVO",,"Por Iniciar","Sin fecha de inicio","Sin observaciones"
+C0002,"Grupo Daltile",Manufactura,,"Luis Mora",luis.mora@daltile.com.mx,Activo,"Asignación Funcional-Técnico (4 meses)",,,"JUAN JOSÉ CORONADO BRAVO",,"Por Iniciar","Sin fecha de inicio","Sin observaciones"
+C0003,Allegion,Manufactura,,"Jose Luis Barrios",jose.barrios@allegion.com,Activo,"Migración eBs",2026-10-13,2028-10-30,,"Hugo Cervantes","En Curso","Sin observaciones","Sin observaciones"
+C0004,CITI,Consultoría,,"Edna Rodriguez",edna.rodriguez@citi.com.mx,Activo,"Soporte Oracle Cloud",2025-06-01,,"Juan José Coronado Bravo","Sayda Castillo","En Curso","Sin observaciones","En curso sin asignaciones"
+C0005,"Parker Servicios de México",Manufactura,PSM991202C2A,"Martín Montañez",martin.montanez@parker.com,Activo,"Desarrollo de Indicadores",,,,,"Por Iniciar","Sin fecha de inicio","Sin observaciones"
+C0006,"Rent A Center (RAC Mèxico Operaciones)","Rentas de equipo",RMO100429T23,"Oziel Juárez",Oziel.Juarez@rentacenter.com,Activo,"SHINE - Asiganci´ñon de recursos de apoyo",2026-06-30,2026-10-30,"Juan José Coronado Bravo","Oziel Juárez","En Curso","Fecha de fin vencida","En curso sin asignaciones"
+C0007,Fanosa,Manufactura,FAN870311EE6,"Alejandro Valenzuela",avalenzuela@fanosa.com,Activo,"Soporte DBA",2021-01-01,,"José Francisco Mendoza Bazán","Alejandro Valenzuela","En Curso","Sin observaciones","En curso sin asignaciones"
+C0008,Novocast,Manufactura,TEK110318K47,"Agustín Hernández",Agustin.HernandezLara@aam.com,Activo,"Hosting eBS",2023-01-01,,"Juan José Coronado Bravo","Agustin Hdez","Por Iniciar","Fecha de inicio anterior a hoy","Sin observaciones"
